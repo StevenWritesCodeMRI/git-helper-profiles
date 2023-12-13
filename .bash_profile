@@ -1,4 +1,4 @@
-PROJECTS_DIR="c:/workspaces/"
+PROJECTS_DIR="c:/Git/"
 
 # get current status of git repo
 function parse_git_dirty {
